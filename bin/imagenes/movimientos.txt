@@ -1,0 +1,7 @@
+MOVIMIENTOS RYU
+
+1-6 movimientoDerecha
+7-12 movimientoIzquierda
+14-18 estatico
+19-23 patada
+24-26 puñetazo

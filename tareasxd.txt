@@ -1,0 +1,12 @@
+Tarea 1:
+Cuando el personaje pegue al otro le baja un bloque de vida, si se junta con el otro no puede moverse más en esa dirección, tampoco puede salirse de la ventana
+
+Tarea 2:
+Instanciar al otro personaje, que todas sus animaciones se dibujen e invertir sus imagenes
+
+Tarea 3: 
+Cuando la vida llegue al mínimo o el personaje con menos vida llegue el tiempo a 0 la pantalla de victoria o derrota la pantalla pondrá el nombre del jugador que ha ganado 
+
+Tarea 4: Añadirle sonidos a todo
+
+Tarea 5: Añadir un contador al principio que diga 3, 2, 1, FIGHT
